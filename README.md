@@ -2,6 +2,10 @@
 
 This document provides an overview of the project architecture and the responsibilities of each major class.
 
+## Screenshot
+
+![Application Screenshot](app/src/main/assets/img.png)
+
 ## Architecture
 
 This project follows a modern Android architecture based on Google's recommendations, incorporating principles from MVVM (Model-View-ViewModel) and Clean Architecture.
